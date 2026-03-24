@@ -1,0 +1,31 @@
+# Compiled files
+*.class
+
+# Build directory (IMPORTANT - you have a 'build' folder)
+/build/
+target/
+
+# Eclipse IDE files
+.classpath
+.project
+.settings/
+*.launch
+
+# IntelliJ IDEA (if any)
+.idea/
+*.iml
+
+# Package files
+*.war
+*.jar
+*.ear
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Your web content might have compiled files
+/webcontent/WEB-INF/classes/
